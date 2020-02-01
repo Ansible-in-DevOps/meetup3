@@ -3,6 +3,7 @@ AiDO Meetup#3 - https://www.meetup.com/Ansible-in-DevOps-Torun-Bydgoszcz/
 
 Youtube - https://www.youtube.com/playlist?list=PL-2nM3otnXgpVWrkmEz4haJmDOFptKaUp
 
+
 Date and place:
 Wed 15.01.2020, 17:30
 Toruń ul. Szosa Bydgoska 3
